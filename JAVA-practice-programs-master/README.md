@@ -1,1 +1,1 @@
-# JAVA-practice-programs
+# JAVA-task
